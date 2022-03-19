@@ -1,6 +1,5 @@
 # Hi, i'm Adrian 👋😁💻
 
-<img align="center" src="https://user-images.githubusercontent.com/57725998/159099925-a4debfc5-a0d6-4a3c-8c8c-47912a16ad49.jpeg" height="150" width="100" />
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=adrianmedeiros00&show_icons=true&theme=dark" height='180em' />
