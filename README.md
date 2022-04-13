@@ -1,4 +1,4 @@
-# Hi, i'm Adrian 👋😁💻
+# Hi, i'm Adrian 👋💻
 
 
 <div>
