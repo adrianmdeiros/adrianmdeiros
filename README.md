@@ -21,7 +21,7 @@
   <a href="instagram.com/adrianmdeiros/" >
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="lima.adrian13@gmail.com" >
+  <a href="mailto:lima.adrian13@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&color=red&logoColor=white" />
   </a>
 </div>
