@@ -24,5 +24,8 @@
   <a href="mailto:lima.adrian13@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&color=red&logoColor=white" />
   </a>
+  <a href="https://twitter.com/adrianmdeiros" >
+    <img src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=twitter&color=blue&logoColor=white" />
+  </a>
 </div>
 
