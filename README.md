@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="lima.adrian13@gmail.com" >
-    <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&color=red" />
   </a>
 </div>
 
