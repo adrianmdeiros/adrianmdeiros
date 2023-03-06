@@ -1,5 +1,5 @@
 ## Hi, i'm Adrian 🖐
-###### These are some of the technologies i've worked with.
+###### These are some of the technologies i've worked with
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
@@ -13,7 +13,7 @@
 </div>
 <br>
 
-###### Social medias.
+###### Social medias
 <div>
   <a href="instagram.com/adrianmdeiros/" >
     <img height="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
