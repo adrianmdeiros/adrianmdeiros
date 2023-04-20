@@ -14,7 +14,7 @@
 </div>
 <br>
 
-###### Social medias
+##### Social medias
 <div>
   <a href="instagram.com/adrianmdeiros/" >
     <img height="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
