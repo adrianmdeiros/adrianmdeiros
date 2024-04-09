@@ -21,15 +21,9 @@
   <a href="mailto:lima.adrian13@gmail.com" >
     <img height="22px" src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&color=darkred&logoColor=white" />
   </a>
-  <a href="https://twitter.com/adrianmdeiros" >
-    <img height="22px" src="https://img.shields.io/badge/Twitter-E4405F?style=for-the-badge&logo=x&color=white&logoColor=black" />
-  </a>
   <a href="https://www.linkedin.com/in/adrian-medeiros" >
     <img height="22px" src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&color=blue&logoColor=white" />
   </a>
-<!--   <a href="https://www.linkedin.com/in/adrian-medeiros" >
-    <img height="22px" src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&color=darkblue&logoColor=white" />
-  </a> -->
 </div>
 
 
