@@ -17,13 +17,13 @@
 
 #### 📧 _Social Medias_
 <div>
-  <a href="instagram.com/adrianmdeiros/" >
+  <a href="https://www.instagram.com/adrianmdeiros" target="_blank">
     <img height="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:lima.adrian13@gmail.com" >
+  <a href="mailto:lima.adrian13@gmail.com" target="_blank">
     <img height="24px" src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&color=darkred&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adrian-medeiros" >
+  <a href="https://www.linkedin.com/in/adrian-medeiros" target="_blank">
     <img height="24px" src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&color=blue&logoColor=white" />
   </a>
 </div>
