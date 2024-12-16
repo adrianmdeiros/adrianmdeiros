@@ -1,4 +1,8 @@
 ## 👋 Hi, i'm Adrian.
+
+I'm 23, programming for 6 years. Always learning something new.
+
+
 #### 🚀 _Technologies i've been using_:
 
 <div style="display: inline_block">
