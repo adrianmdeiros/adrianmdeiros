@@ -8,7 +8,7 @@ I'm 23, programming for 6 years. Always learning something new.
 <div style="display: inline_block">
   <img title="JavaScript" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img title="TypeScript" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img title="React.js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img title="React" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img title="Vue.js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img title="Vite" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
   <img title="Tailwind CSS" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
@@ -16,6 +16,7 @@ I'm 23, programming for 6 years. Always learning something new.
   <img title="Express.js" align="center" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=40&color=ffffff" />         
   <img title="Prisma ORM" align="center" height="30" width="30" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256965/file-type-prisma-icon-md.png" />
   <img title="MySQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img title="PostgreSQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img title="Docker" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </div>
 <br>
