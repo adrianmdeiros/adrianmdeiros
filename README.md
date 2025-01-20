@@ -21,7 +21,7 @@ I'm 23, programming for 6 years. Always learning something new.
 </div>
 <br>
 
-##### 📧 _My Socials:_
+##### 📧 _My socials:_
 <div>
   <a href="https://www.instagram.com/adrianmdeiros" target="_blank">
     <img height="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
