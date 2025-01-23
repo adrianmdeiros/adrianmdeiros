@@ -22,7 +22,7 @@ I'm 23, programming for 6 years. Always learning something new.
 <br>
 
 <a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=adrianmdeiros&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=410" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=adrianmdeiros&hide=html,scss,css&langs_count=5&layout=compact&theme=tokyonight&card_width=410" />
 </a>
 
 ##### 📧 _My socials:_
