@@ -3,7 +3,7 @@
 I'm 23, programming for 6 years. Always learning something new.
 
 
-#### 🚀 _Technologies i've been using_:
+#### 🚀 _Techs i've been using_:
 
 <div style="display: inline_block">
   <img title="JavaScript" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -22,7 +22,7 @@ I'm 23, programming for 6 years. Always learning something new.
 <br>
 
 <a href="#">
-  <img height="150" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=adrianmdeiros&hide=html,scss,css&langs_count=5&layout=compact&theme=tokyonight&card_width=400" />
+  <img height="160" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=adrianmdeiros&hide=html,scss,css&langs_count=5&layout=compact&theme=tokyonight&card_width=300" />
 </a>
 
 ##### 📧 _My socials:_
