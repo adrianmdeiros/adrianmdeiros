@@ -6,7 +6,6 @@ I'm 24, programming for 6 years. Always learning something new.
 #### 🚀 Techs i've been using:
 
 <div style="display: inline_block">
-  <img title="JavaScript" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="pointer-events: none;" />
   <img title="TypeScript" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="pointer-events: none;" />
   <img title="React" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="pointer-events: none;" />
   <img title="Vue.js" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="pointer-events: none;" />
