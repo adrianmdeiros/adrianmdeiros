@@ -24,17 +24,11 @@ I'm 24, programming for 6 years. Always learning something new.
   <img height="160" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=adrianmdeiros&hide=html,scss,css&langs_count=6&layout=compact&theme=tokyonight&card_width=300&hide_title=true" style="pointer-events: none;"/>
 </a>
 
-##### 📧 My socials:
-<div>
-  <a href="https://www.instagram.com/adrianmdeiros" target="_blank">
-    <img height="24px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:lima.adrian13@gmail.com" target="_blank">
-    <img height="24px" src="https://img.shields.io/badge/Gmail-E4405F?style=for-the-badge&logo=gmail&color=darkred&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-medeiros" target="_blank">
-    <img height="24px" src="https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&color=blue&logoColor=white" />
-  </a>
+#### 📧 My socials:
+<div> 
+  <a href="https://instagram.com/adrianmdeiros" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
+ 	<a href="mailto:lima.adrian13@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/adrian-medeiros" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
