@@ -1,6 +1,6 @@
 ## 👋 Hi, i'm Adrian.
 
-I'm 24, programming for six years. Always learning something new.
+I've been programming for six years. Always learning something new.
 
 
 ### 🚀 Tech Stack
