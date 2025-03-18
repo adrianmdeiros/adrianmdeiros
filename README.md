@@ -37,10 +37,6 @@ I've been programming for six years. Always learning something new.
 </div>
 <br>
 
-<a href="#">
-  <img height="160" align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=adrianmdeiros&hide=html,scss,css&langs_count=6&layout=compact&theme=tokyonight&card_width=300&hide_title=true" style="pointer-events: none;"/>
-</a>
-
 #### 📧 My socials:
 <div> 
   <a href="https://instagram.com/adrianmdeiros" target="_blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"    target="_blank"></a>
