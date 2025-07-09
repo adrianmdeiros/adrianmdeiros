@@ -26,7 +26,7 @@ Always learning something new.
   <img title="Express.js" align="center" height="30" width="40" src="https://icongr.am/devicon/express-original.svg?size=40&color=ffffff" style="pointer-events: none;" /> 
   <img title="Drizzle ORM" align="center" height="30" width="30" src="https://images.opencollective.com/drizzle-orm/9405e48/logo/256.png" style="pointer-events: none;" />
   <img title="Prisma ORM" align="center" height="30" width="30" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3256965/file-type-prisma-icon-md.png" style="pointer-events: none;" />
-  <img title="PostgreSQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="pointer-events: none;" />
+  <img title="MySQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style="pointer-events: none;" />
   <img title="PostgreSQL" align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style="pointer-events: none;" />
 </div>
 
