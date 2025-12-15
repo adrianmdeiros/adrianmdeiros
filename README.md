@@ -1,6 +1,6 @@
 ## 👋 Hi, i'm Adrian.
 
-Always learning something new.
+Always learning.
 
 
 ### 🚀 Tech Stack
